@@ -1,0 +1,14 @@
+Category,Name,Quantity,Price,Links
+PCBA,PCB,1,2.00,https://jlcpcb.com/
+PCBA,1N4148 Diodes,9,,Kit
+PCBA,Cherry Max Switches,9,,Kit
+PCBA,Rotary Encoder,1,,Kit
+PCBA,MOUDLE-SEEEDUINO-XIAO,1,,Kit
+PCBA,DM-OLED096-636,1,3.19,https://amzn.in/d/01MaqbYK
+Case,Case Bottom,1,3.37,https://jlc3dp.com/?spm=Jlc3dp.Homepage.1001
+Case,Case Top,1,1.61,https://jlc3dp.com/?spm=Jlc3dp.Homepage.1002
+Keycaps,Keycaps,9,,Kit
+Knob,Knob,1,0.31,https://jlc3dp.com/?spm=Jlc3dp.Homepage.1004
+Shipping,JLC3DP E-POST Shipping,,11.01,
+Shipping,JLCPCB E-POST Shipping,,10.07,
+Total,Total,,31.56,
