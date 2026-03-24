@@ -2,13 +2,13 @@
 
 HackroPadX is my custom 3x3 mechanical macropad built around the Seeed Studio XIAO RP2040. It has 9 programmable mechanical keys in a clean grid, a rotary encoder with push button, and a 0.96 inch OLED screen that shows useful info.
 
-Isn’t the name cool? I really like how HackroPadX sounds — it feels like a fun little hacker tool for your desk.
+Isn’t the name cool? I "smartly" mixed up "Marcro" and "Hack" to come up with a clever name, as I kind of struggling to find a name. And the "X" is just chilling there.
 
-I made it because I wanted a compact, nice-looking macropad for quick shortcuts, media control, volume adjustment, and custom macros without taking up too much space. It works great for video editing, Photoshop, coding, streaming, or just controlling your music and system functions. Since it’s fully open source, you can change anything to fit your workflow.
+I made it because I wanted a compact, nice-looking macropad for quick shortcuts, media control, volume adjustment, and custom macros without taking up too much space. It works great for video editing, coding, streaming, or just controlling your music and system functions. Since it’s fully open source, you can change anything to fit your workflow. And also becuause everyone builds a Macro Pad for Blueprint.
 
 <img width="4400" height="1261" alt="HackroPadX Blueprint — Banner" src="https://github.com/user-attachments/assets/e6ace234-9a56-4f2b-8a60-ecc82774e6d7" />
 
-### Project Gallery
+### Fusion Render & Snapshot
 
 ![HackroPadX Fusion Teams Render](https://github.com/user-attachments/assets/3b6cd852-8db6-4998-8f85-e2450842bb44)
 
@@ -36,7 +36,7 @@ I made it because I wanted a compact, nice-looking macropad for quick shortcuts,
 
 ### Bill of Materials
 
-Here’s everything you need to build one. I’ve included direct links so you can order the parts easily:
+Here’s everything needed to build one. I’ve included direct links for convinience:
 
 - **Seeed Studio XIAO RP2040** → [Seeed Studio official store](https://www.seeedstudio.com/Seeed-XIAO-RP2040-p-5026.html) or [Amazon](https://www.amazon.com/Seeed-Studio-XIAO-RP2040/dp/B09V5Y7Z9Q)
 - **9× Cherry MX compatible switches** → [KBDfans](https://kbdfans.com/collections/cherry-mx-switches) or [Amazon](https://www.amazon.com/Cherry-MX-Switches-Mechanical-Keyboard/dp/B07Z5K8Z5Z)
@@ -46,6 +46,8 @@ Here’s everything you need to build one. I’ve included direct links so you c
 - **9× 1u keycaps** → [KBDfans](https://kbdfans.com/collections/keycaps) or any standard 1u set
 - **HackroPadX PCB** → Order from JLCPCB using the Gerbers in this repo
 - **M2/M3 standoffs + screws + rubber feet** → Any hardware store or Amazon kit
+
+Note that the BOM has components listed as "Kit" as I am expecting to receive a kit with those parts from Blueprint.
 
 ---
 
@@ -61,7 +63,7 @@ Building it is pretty straightforward. I recommend soldering in this order:
 
 After soldering, clean the board. If you’re using a 3D printed case, mount the PCB with standoffs, add rubber feet underneath, snap on the keycaps, and push the knob onto the encoder.
 
-**Note:** All components (including the OLED and encoder) solder directly to the PCB — there are no loose wires, so no separate wiring diagram is needed. Everything is shown clearly in the schematic and 3D renders above.
+**Note:** All components (including the OLED and encoder) solder directly to the PCB — there are no loose wires, so no separate wiring diagram is needed. Everything is shown clearly in the schematic and 3D renders above. And of course every component is properly named on the PCB.
 
 ---
 
@@ -112,6 +114,6 @@ You can customize everything easily — just edit the `HackroPadX Firmware.py` f
 - Full firmware (`HackroPadX Firmware.py`)  
 - All the renders and photos you see above  
 
-If you build your own HackroPadX, I’d love to see how it turns out! Feel free to share photos or any changes you make.
+---
 
-Made with love for tinkering and mechanical keyboards.
+And that's all. I hope this README.md will help at least someone build a macro pad.
