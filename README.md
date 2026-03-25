@@ -53,6 +53,20 @@ Note that the BOM has components listed as "Kit" as I am expecting to receive a 
 
 ### Assembly Instructions
 
+Assembling the board is pretty straightforward. There are no screws, no fasteners, no magnets, only pure faith on gravity and friction. So, don't you use your HackPadX in space or in a hypothetical scenario where there is no friction. There are 4 circular extrusions projecting out down from the Case Top, and they line up with the holes in the PCB and the Case Bottom. I hope the images can help you better understand.
+
+<img width="2000" height="1073" alt="image" src="https://github.com/user-attachments/assets/690081df-10ac-41c4-b093-110291eccf7e" />
+
+<img width="2000" height="1073" alt="image" src="https://github.com/user-attachments/assets/4139f250-864d-4b95-b975-5ac39b6e356a" />
+
+<img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/ee95c936-3caa-4b74-b191-8560ee465291" />
+
+I guess the friction is enough to not cause any assembly disturbances. But why did I do like that? Because I didn't want to get into the mess of using screws for such a small project, and I am pretty sure this would be stationary. And I can absolutely not use glue.
+
+---
+
+### Soldering
+
 Building it is pretty straightforward. I recommend soldering in this order:
 
 - Solder the 9 diodes first — make sure the black band matches the marking on the PCB.
