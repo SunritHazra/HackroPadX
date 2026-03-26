@@ -45,7 +45,6 @@ Here’s everything needed to build one. I’ve included direct links for convin
 - **Rotary encoder (Alps EC11 with push switch)** → [Amazon](https://www.amazon.com/EC11-Rotary-Encoder-Switch/dp/B07Z5K8Z5Z) or [AliExpress](https://www.aliexpress.com/item/1005001234567890.html)
 - **9× 1u keycaps** → [KBDfans](https://kbdfans.com/collections/keycaps) or any standard 1u set
 - **HackroPadX PCB** → Order from JLCPCB using the Gerbers in this repo
-- **M2/M3 standoffs + screws + rubber feet** → Any hardware store or Amazon kit
 
 Note that the BOM has components listed as "Kit" as I am expecting to receive a kit with those parts from Blueprint.
 
